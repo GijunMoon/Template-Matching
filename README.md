@@ -8,7 +8,7 @@ I set the goalpost of the playground as a template and started to analyze it.
 # Result
 ## template & target images
 ![target](./images/target.jpg)
-![tamplate](./images/tamplate.jpg)
+![template](./images/template.jpg)
 
 ## result
 ![1](./readme/1.PNG)
